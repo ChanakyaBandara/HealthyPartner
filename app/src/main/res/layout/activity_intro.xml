@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".Intro">
+
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HEALTHY"
+            android:textSize="40dp"
+            android:textColor="#17202A"
+            android:fontFamily="@font/medium"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PARTNER"
+            android:textSize="40dp"
+            android:textColor="#28B463"
+            android:textStyle="bold"
+            android:fontFamily="@font/medium"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/barcode"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Designed &amp; Developed By Synn-Labz"
+        android:textSize="8dp"
+        android:textColor="#EAECEE"
+        android:fontFamily="@font/medium"
+        android:layout_marginStart="2dp"
+        android:layout_marginBottom="2dp"/>
+
+</RelativeLayout>

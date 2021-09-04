@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223156051632",
+    "firebase_url": "https://healthypartner-5b7f0.firebaseio.com",
+    "project_id": "healthypartner-5b7f0",
+    "storage_bucket": "healthypartner-5b7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223156051632:android:33a5b8e810cb8e599c6575",
+        "android_client_info": {
+          "package_name": "com.synnlabz.scanme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223156051632-4h4kgl6p7v7839247b7dg8ic93b2bvlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEankRV8G_xHRx6SjU_dl07ajQlSCDe-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223156051632-4h4kgl6p7v7839247b7dg8ic93b2bvlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
